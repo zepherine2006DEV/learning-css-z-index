@@ -10,8 +10,8 @@ As a developer,
 I want to have a large square sandwiched between two small squares, with the the small squares offset.  
 So that I can understand how z index works in css.  
 
-As a developer,
-I want to understand best practice for using classes.
+As a developer,  
+I want to understand best practice for using classes.  
 So that I organise my css and make it easier to read.  
 
 ## How to Use
@@ -24,16 +24,16 @@ Open zindex1.html in your browser.
 
 Name CSS classes to describe the content it applies to or the purpose, but not literally what it looks like. Always ask why?
 
-red-text - bad
-blue-button - bad
-border-4px  - bad
-large-text - bad (why is the text large?)
-
-alert - good
-message-error - good
-stand-out - good
-
-Methodologies such as BEM (Block Element Modifier) can also be used.
+red-text - bad  
+blue-button - bad  
+border-4px  - bad  
+large-text - bad (why is the text large?)  
+  
+alert - good  
+message-error - good  
+stand-out - good  
+  
+Methodologies such as BEM (Block Element Modifier) can also be used.  
 
 # Resources
 
