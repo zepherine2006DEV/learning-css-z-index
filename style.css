@@ -1,0 +1,38 @@
+.large-box, .small-box {
+  position: absolute;
+  border: 5px solid black;
+}
+
+.large-box {
+  background-color: darkgrey;
+  height: 400px;
+  width: 400px;
+}
+
+.small-box {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+}
+
+.skew-medium {
+  left: 150px;
+  top: 150px;
+}
+
+.skew-large {
+  left: 350px;
+  top: 350px;
+}
+
+.bring-forward {
+  z-index: 2;
+}
+
+.send-back {
+  z-index: -2;
+}
+
+body {
+  background-color: lightgray;
+}
